@@ -28,6 +28,7 @@ A multithreaded encryption program in C implementing **Caesar** and **RSA** ciph
 
 ## 🏗️ Project Structure
 
+```
 Cipher-Encryption-System/
 │
 ├── .git/                   # Git repository folder (automatically created)
@@ -39,4 +40,5 @@ Cipher-Encryption-System/
 ├── README.md              # Project overview, build instructions, usage, etc.
 ├── LICENSE                # (Optional) License file if you choose to open-source
 └── Makefile               # (Optional but recommended) Build automation script
+```
 
